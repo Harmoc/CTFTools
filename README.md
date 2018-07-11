@@ -10,7 +10,7 @@ This toolkit mainly draws on Elves cousin and an anonymous god tool kit, and som
 Some tools run the directory can not have spaces or Chinese characters
 
 
-链接: https://pan.baidu.com/s/1dGMuJ0 密码: g4v
+链接: https://pan.baidu.com/s/1dGMuJ0 密码: g4vu
 做目录太麻烦了，直接生成了一个。。。见谅QAQ
 
 │
