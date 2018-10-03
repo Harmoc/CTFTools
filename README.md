@@ -1,18 +1,25 @@
-# CTFTools
-### Personal CTF Toolkit
 
-此工具包主要借鉴了精灵表哥和一个佚名大神的工具包，在加上本人打ctf和渗透时所用到的一些工具，应当还算全面。
+# Personal CTF Toolkit
 
-This toolkit mainly draws on Elves cousin and an anonymous god tool kit, and some of the tools used when I play ctf, it should be fairly comprehensive.
+
+
+此工具包最初是基于精灵表哥和一个佚名表哥的工具包整理的，后来加上本人打ctf和渗透时所添加的一些工具，应当还算全面(傲娇脸)。
+
+QAQ
+
+表哥们自然都有自己的kit，不过，互通有无总是好的嘛，看看下面目录里哪些有需要大家自取就好了（￣︶￣）↗
+
+包比较大，Github又慢，为了便于下载还是放在了网盘里：
+链接: https://pan.baidu.com/s/1F1s-uCGd564pc6YBjNwyQg 提取码: xv5p
+
+要是觉得还行，能不能给个star？
+
+## Note
 
 部分工具运行时的目录中不可有空格或中文字符。
 
-Some tools run the directory can not have spaces or Chinese characters
 
-
-链接: https://pan.baidu.com/s/1dGMuJ0 密码: g4vu
-
-index:
+## index:
 
     ├── A常用工具快捷方式
     │   ├── BurpHelper.jar - 快捷方式.lnk
