@@ -13,8 +13,6 @@ QAQ
 
  - 链接: https://pan.baidu.com/s/1u6NcfP-BkpXPYAnMUwjGHA 提取码: qv79
 
-要是觉得还行，能不能给个star？
-
 目录只放了三层，再多就太影响阅读。详细列表也上传了一份，愿意的话可以看看。
 
 ## Note
