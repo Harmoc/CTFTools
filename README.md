@@ -7,8 +7,8 @@
 
 考虑Github国内访问问题，下载还是放在网盘：
 
-- 链接：https://pan.baidu.com/s/13dV3fFLiRbDdu10Bg0pVYg  提取码：2333 
-- Rar Password: hacktheworld
+- 链接：https://pan.baidu.com/s/1qW11wUoDR3z9q5SnLVMaEw 提取码：2333 
+- 7z Password: hacktheworld
 
 
 
